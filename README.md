@@ -18,7 +18,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 #### Code:
 - This week I received assistance from tutorial staff to clear problems in the code.
 - AI was helpful in debugging and providing additional resources, such as a [gradient colour designer](https://colordesigner.io/gradient-generator).
-- The page has been deployed using [Git Pages](https://gigodata.github.io), as per the instructions in the assignment
+- The page has been deployed using [Git Pages](https://gigodata.github.io/projects/belly_button/index.html), as per the instructions in the assignment
 
 ----
 
